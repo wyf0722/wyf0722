@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img height="316px" src="https://leetcard.jacoblin.cool/wyf0722chosen?theme=unicorn&font=Fira%20Code&ext=contest"/>
 </a>
 <a href="https://leetcode.cn/u/wyf0722/">
-<img height="158px" src="https://leetcard.jacoblin.cool/wyf0722?theme=unicorn&font=Fira%20Code&ext=contest&site=cn"/>
+<img height="316px" src="https://leetcard.jacoblin.cool/wyf0722?theme=unicorn&font=Fira%20Code&ext=heatmap&site=cn"/>
 </a>
 </span>
 
