@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 
 <span>
 <a href="https://leetcode.com/u/biggest_fw/">
-<img height="316px" src="https://leetcard.jacoblin.cool/wyf0722chosen?theme=unicorn&font=Fira%20Code&ext=contest"/>
+<img height="316px" src="https://leetcard.jacoblin.cool/biggest_fw?theme=unicorn&font=Fira%20Code&ext=contest"/>
 </a>
 <a href="https://leetcode.cn/u/zhangxi-bytedance">
-<img height="316px" src="https://leetcard.jacoblin.cool/wyf0722?theme=unicorn&font=Fira%20Code&ext=heatmap&site=cn"/>
+<img height="316px" src="https://leetcard.jacoblin.cool/zhangxi-bytedance?theme=unicorn&font=Fira%20Code&ext=heatmap&site=cn"/>
 </a>
 </span>
 
