@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 ## 📈 Coding Profiles
 
 <span>
-<a href="https://leetcode.com/wyf0722chosen">
+<a href="https://leetcode.com/u/biggest_fw/">
 <img height="316px" src="https://leetcard.jacoblin.cool/wyf0722chosen?theme=unicorn&font=Fira%20Code&ext=contest"/>
 </a>
-<a href="https://leetcode.cn/u/wyf0722/">
+<a href="https://leetcode.cn/u/zhangxi-bytedance">
 <img height="316px" src="https://leetcard.jacoblin.cool/wyf0722?theme=unicorn&font=Fira%20Code&ext=heatmap&site=cn"/>
 </a>
 </span>
