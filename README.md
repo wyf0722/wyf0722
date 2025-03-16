@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 📊 Github Stats
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 
 ## 📈 Coding Profiles
