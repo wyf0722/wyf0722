@@ -15,14 +15,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <br>
-  <samp>
-    Hello there! I'm <b>Wyf</b>.
-    <br>I'm a Student from NJU.<br>
-
-</samp>
-
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=40&pause=1000&color=F7367B&center=true&vCenter=true&width=500&height=100&lines=Hi!+I'm+wyf!;coming+from+Nanjing+University;Back-End+Engineer" alt="Typing SVG" /></a>
 
 </p>
 
