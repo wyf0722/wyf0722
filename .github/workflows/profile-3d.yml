@@ -24,3 +24,5 @@ jobs:
           if git commit -m "generated"; then
             git push
           fi
+      - name: OpenCommit — improve commits with AI
+        uses: di-sukharev/opencommit@github-action-v1.0.2
