@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 </a>
 </span>
 
+## :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/wyf0722/test_latex/pull/2) in [wyf0722/test_latex](https://github.com/wyf0722/test_latex)
 2. 💪 Opened PR [#2](https://github.com/wyf0722/test_latex/pull/2) in [wyf0722/test_latex](https://github.com/wyf0722/test_latex)
